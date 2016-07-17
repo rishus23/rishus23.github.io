@@ -1,0 +1,14 @@
+---
+layout: post
+title: Mozilla One Web
+subtitle: Web awareness among underpriviledged Kids
+bigimg: /img/one_web/OneWeb.png
+---
+
+We believe that Internet is the basic need or commodity of the day and as citizens of 21st century everyone must have access to Internet. While we still have a literacy rate to 71% in the country and 64.3% in the State (West Bengal) there are still a lot of people of various age group who have not used Internet or do not know how to use it. The Initiative was planned in such a way to reach to maximum no. of people of all age groups and teach them about the most potential resource of the World, the WEB.
+
+With Kolkata being the Only City in the county to go full wifi in next 1 year and having 39 locations and 14 metro stations having free access to wifi there are teenagers or kids who will be using internet in near future to educate about the WEB is the main goal. WEB is the most powerful resource in the world as well as the most harmful if not used properly to educate these people about WEB is the main target.
+
+Keeping this in Mind we came up with the One_Web Initiative an initiative to touch 1,00,000 lives in 3 months. The Planning was done in just 7 days and we conducted our first event on 3rd of July , 2016.
+
+![One Web Poster](/img/one_web/OneWeb.png)
