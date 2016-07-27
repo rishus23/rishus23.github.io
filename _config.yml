@@ -63,6 +63,9 @@ footer-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "rishus23.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
+gems:
+  - jemoji
+
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
